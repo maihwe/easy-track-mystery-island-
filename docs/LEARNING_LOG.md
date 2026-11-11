@@ -58,7 +58,7 @@ shell. Record the returned values and explain why the function does not print.
 
 **Your conclusion:** To be written in your own words after the experiment.
 
-## Individual defence questions 
+## Individual defence questions
 
 1. Why is energy an integer, location a string, and inventory a list?
 2. What stops the inner game loop, and what stops the outer replay loop?
